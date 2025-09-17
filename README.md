@@ -37,7 +37,5 @@ def print_resume():
     print("- Языки: Русский (родной), Английский — базовый уровень")
     print("- Цель: стать сильным back-end разработчиком")
     print("=" * 40)
-
-
-if name == "main":
+    
     print_resume()
